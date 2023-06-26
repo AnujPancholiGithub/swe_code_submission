@@ -1,0 +1,3 @@
+There is a pond of radius 500 m. Grass grows in it and it double in area every day. If grass takes 27 days to cover the 1/4 area of    the pond, in how many days the pond will  be fully covered with grass
+
+answer => 29 days

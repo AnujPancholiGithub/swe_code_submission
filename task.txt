@@ -1,0 +1,12 @@
+task 1 - > Give an example to demonstrate how can we use async await in Node.js?  || Done [I used async await in controllers to handle the request]
+
+How assert works in Node.js?  
+
+Create a Signup and Login API with token.  || Done [Created a signup / login api and it will uses jwt for token]
+
+Setup Redux in Your Project 
+
+Make login Process and Redirect to Dashboard.
+
+
+There is a pond of radius 500 m. Grass grows in it and it double in area every day. If grass takes 27 days to cover the 1/4 area of    the pond, in how many days the pond will  be fully covered with grass
